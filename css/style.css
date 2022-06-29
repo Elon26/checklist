@@ -18,6 +18,8 @@ html {
 body {
   padding: 0;
   margin: 0;
+  background: -webkit-gradient(linear, left top, right top, from(#ffffff), to(#00ffff));
+  background: linear-gradient(90deg, #ffffff, #00ffff);
 }
 
 #tasks {
